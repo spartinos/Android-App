@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HandyHive</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="button">Button</string>
+    <string name="username">Username</string>
+    <string name="Login">Login</string>
+    <string-array name="handymen">
+        <item>Painter</item>
+        <item>Carpenter</item>
+        <item>Gardener</item>
+        <item>Electrician</item>
+        <item>Car Engineer</item>
+        <item>Builder</item>
+        <item>Refrigerant</item>
+        <item>Plumber</item>
+    </string-array>
+</resources>
