@@ -1,7 +1,7 @@
 # Android-App
 
 This is an Android app that allows users to find and communicate with
-available handymen/handymen for various services (e.g. plumbing, electrical, cleaning, etc.).
+available handymen for various services (e.g. plumbing, electrical, cleaning, etc).
 
 Each user can either offer services or request help for a task, through a simple and functional user interface.
 
